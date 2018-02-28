@@ -1,19 +1,8 @@
 # vue-quote
 
-> A Vue.js project
+Using components to display a quote web-app.
 
-## Build Setup
+Features to come :
+- caching & state management
+- Better animations
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# vue-quotes
